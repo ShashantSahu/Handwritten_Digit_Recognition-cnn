@@ -51,18 +51,6 @@ The goal of this project is to correctly identify handwritten digits from images
 ---
 
 
-🔍 Sample Output
-
-Input: Handwritten digit image
-Output: Predicted digit (0–9)
-
-📌 Future Improvements
-
-
-Streamlit web app for drawing digits
-Deploy model as web service
-Improve accuracy using advanced CNN architectures
-
 
 👨‍💻 Author
 
