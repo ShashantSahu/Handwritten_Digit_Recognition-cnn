@@ -50,13 +50,6 @@ The goal of this project is to correctly identify handwritten digits from images
 
 ---
 
-## 🧪 How to Run
-
-1. Clone the repository:
-```bash id="run1"
-git clone https://github.com/your-username/handwritten-digit-recognition.git
-
-pip install tensorflow numpy matplotlib
 
 🔍 Sample Output
 
